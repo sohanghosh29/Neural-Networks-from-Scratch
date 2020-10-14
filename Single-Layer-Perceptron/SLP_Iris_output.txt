@@ -1,0 +1,801 @@
+---------- Iteration No: 1 ----------
+Misclassifications: 49
+Training Accuracy: 53.77358490566038%
+
+---------- Iteration No: 2 ----------
+Misclassifications: 44
+Training Accuracy: 58.490566037735846%
+
+---------- Iteration No: 3 ----------
+Misclassifications: 36
+Training Accuracy: 66.0377358490566%
+
+---------- Iteration No: 4 ----------
+Misclassifications: 22
+Training Accuracy: 79.24528301886792%
+
+---------- Iteration No: 5 ----------
+Misclassifications: 37
+Training Accuracy: 65.09433962264151%
+
+---------- Iteration No: 6 ----------
+Misclassifications: 46
+Training Accuracy: 56.60377358490566%
+
+---------- Iteration No: 7 ----------
+Misclassifications: 28
+Training Accuracy: 73.58490566037736%
+
+---------- Iteration No: 8 ----------
+Misclassifications: 32
+Training Accuracy: 69.81132075471697%
+
+---------- Iteration No: 9 ----------
+Misclassifications: 32
+Training Accuracy: 69.81132075471697%
+
+---------- Iteration No: 10 ----------
+Misclassifications: 18
+Training Accuracy: 83.01886792452831%
+
+---------- Iteration No: 11 ----------
+Misclassifications: 26
+Training Accuracy: 75.47169811320755%
+
+---------- Iteration No: 12 ----------
+Misclassifications: 22
+Training Accuracy: 79.24528301886792%
+
+---------- Iteration No: 13 ----------
+Misclassifications: 22
+Training Accuracy: 79.24528301886792%
+
+---------- Iteration No: 14 ----------
+Misclassifications: 17
+Training Accuracy: 83.9622641509434%
+
+---------- Iteration No: 15 ----------
+Misclassifications: 28
+Training Accuracy: 73.58490566037736%
+
+---------- Iteration No: 16 ----------
+Misclassifications: 29
+Training Accuracy: 72.64150943396226%
+
+---------- Iteration No: 17 ----------
+Misclassifications: 14
+Training Accuracy: 86.79245283018868%
+
+---------- Iteration No: 18 ----------
+Misclassifications: 22
+Training Accuracy: 79.24528301886792%
+
+---------- Iteration No: 19 ----------
+Misclassifications: 20
+Training Accuracy: 81.13207547169812%
+
+---------- Iteration No: 20 ----------
+Misclassifications: 13
+Training Accuracy: 87.73584905660378%
+
+---------- Iteration No: 21 ----------
+Misclassifications: 18
+Training Accuracy: 83.01886792452831%
+
+---------- Iteration No: 22 ----------
+Misclassifications: 17
+Training Accuracy: 83.9622641509434%
+
+---------- Iteration No: 23 ----------
+Misclassifications: 24
+Training Accuracy: 77.35849056603774%
+
+---------- Iteration No: 24 ----------
+Misclassifications: 21
+Training Accuracy: 80.18867924528303%
+
+---------- Iteration No: 25 ----------
+Misclassifications: 14
+Training Accuracy: 86.79245283018868%
+
+---------- Iteration No: 26 ----------
+Misclassifications: 24
+Training Accuracy: 77.35849056603774%
+
+---------- Iteration No: 27 ----------
+Misclassifications: 14
+Training Accuracy: 86.79245283018868%
+
+---------- Iteration No: 28 ----------
+Misclassifications: 9
+Training Accuracy: 91.50943396226415%
+
+---------- Iteration No: 29 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 30 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 31 ----------
+Misclassifications: 9
+Training Accuracy: 91.50943396226415%
+
+---------- Iteration No: 32 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 33 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 34 ----------
+Misclassifications: 9
+Training Accuracy: 91.50943396226415%
+
+---------- Iteration No: 35 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 36 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 37 ----------
+Misclassifications: 20
+Training Accuracy: 81.13207547169812%
+
+---------- Iteration No: 38 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 39 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 40 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 41 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 42 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 43 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 44 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 45 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 46 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 47 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 48 ----------
+Misclassifications: 17
+Training Accuracy: 83.9622641509434%
+
+---------- Iteration No: 49 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 50 ----------
+Misclassifications: 10
+Training Accuracy: 90.56603773584906%
+
+---------- Iteration No: 51 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 52 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 53 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 54 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 55 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 56 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 57 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 58 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 59 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 60 ----------
+Misclassifications: 9
+Training Accuracy: 91.50943396226415%
+
+---------- Iteration No: 61 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 62 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 63 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 64 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 65 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 66 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 67 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 68 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 69 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 70 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 71 ----------
+Misclassifications: 9
+Training Accuracy: 91.50943396226415%
+
+---------- Iteration No: 72 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 73 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 74 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 75 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 76 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 77 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 78 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 79 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 80 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 81 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 82 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 83 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 84 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 85 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 86 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 87 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 88 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 89 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 90 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 91 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 92 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 93 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 94 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 95 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 96 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 97 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 98 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 99 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 100 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 101 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 102 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 103 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 104 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 105 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 106 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 107 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 108 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 109 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 110 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 111 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 112 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 113 ----------
+Misclassifications: 5
+Training Accuracy: 95.28301886792453%
+
+---------- Iteration No: 114 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 115 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 116 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 117 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 118 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 119 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 120 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 121 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 122 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 123 ----------
+Misclassifications: 5
+Training Accuracy: 95.28301886792453%
+
+---------- Iteration No: 124 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 125 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 126 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 127 ----------
+Misclassifications: 8
+Training Accuracy: 92.45283018867924%
+
+---------- Iteration No: 128 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 129 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 130 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 131 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 132 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 133 ----------
+Misclassifications: 7
+Training Accuracy: 93.39622641509435%
+
+---------- Iteration No: 134 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 135 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 136 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 137 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 138 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 139 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 140 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 141 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 142 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 143 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 144 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 145 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 146 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 147 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 148 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 149 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 150 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 151 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 152 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 153 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 154 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 155 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 156 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 157 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 158 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 159 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 160 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 161 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 162 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 163 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 164 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 165 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 166 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 167 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 168 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 169 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 170 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 171 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 172 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 173 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 174 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 175 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 176 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 177 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 178 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 179 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 180 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 181 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 182 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 183 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 184 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 185 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 186 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 187 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 188 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 189 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 190 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 191 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 192 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 193 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 194 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 195 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 196 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 197 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+---------- Iteration No: 198 ----------
+Misclassifications: 3
+Training Accuracy: 97.16981132075472%
+
+---------- Iteration No: 199 ----------
+Misclassifications: 6
+Training Accuracy: 94.33962264150944%
+
+---------- Iteration No: 200 ----------
+Misclassifications: 4
+Training Accuracy: 96.22641509433963%
+
+Test Accuracy = 97.72727272727273%

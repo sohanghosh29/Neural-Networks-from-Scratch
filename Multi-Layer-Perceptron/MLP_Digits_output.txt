@@ -1,0 +1,66 @@
+$python MLP.py
+
+Enter [1] for Iris Dataset or [2] for Digits Dataset:2
+2
+Enter the no of Hidden Layers:2
+Enter no of nodes in Hidden Layer 1:100
+Enter no of nodes in Hidden Layer 2:32
+Enter the learning rate:0.1
+Enter momentum factor:0.9
+Enter no of iterations to run:50
+No of nodes in each layer (input, hidden layers, output):[64, 100, 32, 10] 
+MLP Initialized
+---------------------------------------------------------------------------
+[Iter 1]: Loss = 632.4090236295291, Train Accuracy = 9.141494435612083 %
+[Iter 2]: Loss = 622.4871088070421, Train Accuracy = 10.41335453100159 %
+[Iter 3]: Loss = 567.8142801113684, Train Accuracy = 15.262321144674084 %
+[Iter 4]: Loss = 476.00297355528403, Train Accuracy = 30.127186009538953 %
+[Iter 5]: Loss = 305.93635617652234, Train Accuracy = 63.43402225755167 %
+[Iter 6]: Loss = 137.04952835586062, Train Accuracy = 86.48648648648648 %
+[Iter 7]: Loss = 56.6765398230396, Train Accuracy = 94.67408585055644 %
+[Iter 8]: Loss = 35.5975809027244, Train Accuracy = 97.37678855325915 %
+[Iter 9]: Loss = 26.839365979808072, Train Accuracy = 97.61526232114467 %
+[Iter 10]: Loss = 20.7487184606687, Train Accuracy = 98.09220985691573 %
+[Iter 11]: Loss = 12.841394729275267, Train Accuracy = 99.20508744038156 %
+[Iter 12]: Loss = 13.16936626727071, Train Accuracy = 99.12559618441972 %
+[Iter 13]: Loss = 10.224158657279244, Train Accuracy = 99.12559618441972 %
+[Iter 14]: Loss = 7.212865834979085, Train Accuracy = 99.52305246422894 %
+[Iter 15]: Loss = 5.685590552117215, Train Accuracy = 99.76152623211448 %
+[Iter 16]: Loss = 3.461775781327646, Train Accuracy = 99.76152623211448 %
+[Iter 17]: Loss = 3.0815712442136265, Train Accuracy = 99.76152623211448 %
+[Iter 18]: Loss = 2.685424843007823, Train Accuracy = 99.76152623211448 %
+[Iter 19]: Loss = 2.3056685462276354, Train Accuracy = 99.76152623211448 %
+[Iter 20]: Loss = 2.8035253404812575, Train Accuracy = 99.68203497615262 %
+[Iter 21]: Loss = 1.8012668565460224, Train Accuracy = 99.92050874403816 %
+[Iter 22]: Loss = 1.5815035959691228, Train Accuracy = 99.92050874403816 %
+[Iter 23]: Loss = 1.4435442790223123, Train Accuracy = 99.92050874403816 %
+[Iter 24]: Loss = 1.3330892277797834, Train Accuracy = 99.92050874403816 %
+[Iter 25]: Loss = 1.2681396377880922, Train Accuracy = 99.92050874403816 %
+[Iter 26]: Loss = 1.2308535873807365, Train Accuracy = 99.92050874403816 %
+[Iter 27]: Loss = 1.2036167360775292, Train Accuracy = 99.92050874403816 %
+[Iter 28]: Loss = 1.1795445515510097, Train Accuracy = 99.92050874403816 %
+[Iter 29]: Loss = 1.1535826625200372, Train Accuracy = 99.92050874403816 %
+[Iter 30]: Loss = 1.1152705789113773, Train Accuracy = 99.92050874403816 %
+[Iter 31]: Loss = 1.0232441944405084, Train Accuracy = 99.92050874403816 %
+[Iter 32]: Loss = 1.0675207826261617, Train Accuracy = 99.92050874403816 %
+[Iter 33]: Loss = 0.601643063771903, Train Accuracy = 100.0 %
+[Iter 34]: Loss = 0.30016900297581167, Train Accuracy = 100.0 %
+[Iter 35]: Loss = 0.21148193999745932, Train Accuracy = 100.0 %
+[Iter 36]: Loss = 0.18694571680363553, Train Accuracy = 100.0 %
+[Iter 37]: Loss = 0.17280989578320258, Train Accuracy = 100.0 %
+[Iter 38]: Loss = 0.1619690704940079, Train Accuracy = 100.0 %
+[Iter 39]: Loss = 0.1531176519017171, Train Accuracy = 100.0 %
+[Iter 40]: Loss = 0.1456240312180703, Train Accuracy = 100.0 %
+[Iter 41]: Loss = 0.13912310060654534, Train Accuracy = 100.0 %
+[Iter 42]: Loss = 0.13338279086558322, Train Accuracy = 100.0 %
+[Iter 43]: Loss = 0.12824590260564409, Train Accuracy = 100.0 %
+[Iter 44]: Loss = 0.12360075628437506, Train Accuracy = 100.0 %
+[Iter 45]: Loss = 0.11936496406521917, Train Accuracy = 100.0 %
+[Iter 46]: Loss = 0.11547585276142175, Train Accuracy = 100.0 %
+[Iter 47]: Loss = 0.11188451856378188, Train Accuracy = 100.0 %
+[Iter 48]: Loss = 0.10855197994075338, Train Accuracy = 100.0 %
+[Iter 49]: Loss = 0.1054465991153353, Train Accuracy = 100.0 %
+[Iter 50]: Loss = 0.10254230045476406, Train Accuracy = 100.0 %
+---------------------------------------------------------------
+
+Test Accuracy = 97.40259740259741 %

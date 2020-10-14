@@ -1,0 +1,7 @@
+1) Place all the files  in the same directory
+2) To run Program 1, type "python SLP_Banknote.py" in command line and press Enter.
+   It loads the Banknote authentication dataset "BankNote.csv" and runs single layer perceptron.
+3) To run Program 2, type "python SLP_Iris.py" in command line and press Enter. 
+   It loads the Banknote authentication dataset "Iris.csv" and runs single layer perceptron.
+4) To run Program 3, type "python SLP_Synthetic.py" in command line and press Enter. 
+   It generates Synthetic 2D data which is Linearly Separable and runs single layer perceptron.

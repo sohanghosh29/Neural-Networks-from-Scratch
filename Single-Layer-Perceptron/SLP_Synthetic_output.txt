@@ -1,0 +1,17 @@
+---------- Iteration No: 1 ----------
+Errors: 3
+Training Accuracy: 99.78586723768737%
+
+---------- Iteration No: 2 ----------
+Errors: 1
+Training Accuracy: 99.92862241256245%
+
+---------- Iteration No: 3 ----------
+Errors: 1
+Training Accuracy: 99.92862241256245%
+
+---------- Iteration No: 4 ----------
+Errors: 0
+Training Accuracy: 100.0%
+
+Test Accuracy = 100.0%

@@ -1,0 +1,27 @@
+To execute follow the below steps:
+
+1) Save all the .py and .csv files in one directory.
+2) Go to command line and execute: python MLP.py
+3) You will be prompted to select which dataset you want to run MLP on: [1] Iris, [2] Handwritten Digits (scikit learn load_digits dataset).
+4) Next enter the no of Hidden Layers in the model.
+5) Then you will be prompted to enter the number of nodes (excluding the bias) of each hidden layer.
+6) Then enter the learning rate, momentum factor and number of epochs to run.
+7) The created network architecture and the training progress for each iteration is shown.
+8) Finally the Test Accuracy is shown.
+-----------------------------------------------------------------------------------------------------------------
+
+Some Suggestions:
+
+>IRIS Dataset:
+1) learning rate = 0.01, momentum = 0.9 seems to work well
+2) Network with 1 Hidden Layer with 10 nodes seem to work well (about 200 epochs)
+3) Network with 2 Hidden Layers with 12 and 8 nodes seem to work well (about 500 epochs)
+4) Network with 3 Hidden Layers with 30, 15 and 8 nodes seem to work well (about 1000 epochs)
+
+>Handwritten Digits Dataset:
+1) learning rate = 0.1, momentum = 0.9 seems to work well
+2) Network with 1 Hidden Layer with 40 nodes seem to work well (about 30 epochs)
+3) Network with 2 Hidden Layers with 100 and 32 nodes seem to work well (about 50 epochs)
+4) Network with 3 Hidden Layers with 100, 50 and 24 nodes seem to work well (about 300 to 500 epochs)
+
+Note: Ofcourse any other network architectures can be used too. The above are just some verified suggestions.
