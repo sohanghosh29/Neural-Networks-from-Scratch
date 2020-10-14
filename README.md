@@ -1,5 +1,5 @@
 # Neural-Networks-from-Scratch
-Implements neural network models from scratch without any specialized libraries
+Implements Neural Network models from scratch without any specialized libraries. Only Numpy is used for implementing the models. Scikit-learn has been used in some places for generating or loading datasets.
 
 ### Single Layer Perceptron (SLP):
 Applies Single Layer Perceptron (SLP) Algorithm to classify:
