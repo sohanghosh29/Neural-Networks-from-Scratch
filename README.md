@@ -1,2 +1,13 @@
 # Neural-Networks-from-Scratch
 Implements neural network models from scratch without any specialized libraries
+
+### Single Layer Perceptron (SLP):
+Applies Single Layer Perceptron (SLP) Algorithm to classify:
+1. 2 Classes Dataset (Banknote Dataset)
+2. 3 Classes Dataset where each pairwise set of classes is linearly separable (Iris Dataset)
+3. Synthetically generated 2 Classes Dataset
+
+### Generalized Multi Layer Perceptron (MLP):
+Applies Generalized MLP (Any number of Hidden Layers can be added via user input) Algorithms to classify:
+1. Iris Dataset 
+2. Handwritten Digits Dataset
