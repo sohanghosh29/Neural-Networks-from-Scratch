@@ -8,6 +8,6 @@ Applies Single Layer Perceptron (SLP) Algorithm to classify:
 3. Synthetically generated 2 Classes Dataset
 
 ### Generalized Multi Layer Perceptron (MLP):
-Applies Generalized MLP (Any number of Hidden Layers can be added via user input) Algorithm to classify:
+Applies Generalized MLP (Any number of Hidden Layers can be added via user input) Algorithm along with Momentum factor to classify:
 1. Iris Dataset 
 2. Handwritten Digits Dataset
