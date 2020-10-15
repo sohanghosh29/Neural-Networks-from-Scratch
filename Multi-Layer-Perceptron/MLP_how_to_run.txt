@@ -24,4 +24,4 @@ Some Suggestions:
 3) Network with 2 Hidden Layers with 100 and 32 nodes seem to work well (about 50 epochs)
 4) Network with 3 Hidden Layers with 100, 50 and 24 nodes seem to work well (about 300 to 500 epochs)
 
-Note: Ofcourse any other network architectures can be used too. The above are just some verified suggestions.
+Note: Ofcourse any other network architecture can be used too. The above are just some verified suggestions.
